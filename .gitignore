@@ -1,0 +1,5 @@
+mattermost-docker/
+.env
+*.sql
+*.tar.gz
+backups/
